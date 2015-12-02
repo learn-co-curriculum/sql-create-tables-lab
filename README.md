@@ -42,3 +42,5 @@ Create a table called cats with the following columns and types:
 |breed  |text   |
 |temperament|text|
 |declawed |boolean|
+
+<a href='https://learn.co/lessons/sql-create-tables-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
