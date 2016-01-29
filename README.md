@@ -43,4 +43,4 @@ Create a table called cats with the following columns and types:
 |temperament|text|
 |declawed |boolean|
 
-<a href='https://learn.co/lessons/sql-create-tables-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-create-tables-lab' title='Sql Create Tables Lab'>Sql Create Tables Lab</a> on Learn.co and start learning to code for free.</p>
